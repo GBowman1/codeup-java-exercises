@@ -19,7 +19,6 @@ public class ConsoleExercises {
         System.out.printf("%s.%n", userString);
 
         System.out.print("Write a sentence: ");
-        scanner.nextLine();
         String userSentence = scanner.nextLine();
 
         System.out.printf("%s.%n", userSentence);
