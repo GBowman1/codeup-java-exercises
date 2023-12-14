@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class StatementsAndLoopsLec {
     public static void main(String[] args) {
         boolean isThisTrue = 5.0 == 5;
